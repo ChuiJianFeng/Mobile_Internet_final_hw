@@ -1,0 +1,4 @@
+/home/jian/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/jian/CLionProjects/practice_circular_queue
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jian/CLionProjects/practice_circular_queue/cmake-build-debug

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jian/CLionProjects/practice_circular_queue/circular_queue.h
+stdbool.h
+/home/jian/CLionProjects/practice_circular_queue/stdbool.h
+stdlib.h
+/home/jian/CLionProjects/practice_circular_queue/stdlib.h
+
+/home/jian/CLionProjects/practice_circular_queue/server.c
+stdio.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+unistd.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+string.h
+-
+errno.h
+-
+circular_queue.h
+/home/jian/CLionProjects/practice_circular_queue/circular_queue.h
+sys/mman.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+

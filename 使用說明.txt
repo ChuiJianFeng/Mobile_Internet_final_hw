@@ -1,0 +1,8 @@
+
+
+Server端:
+	gcc -o server server.c circular_queue.c
+Client端:
+	gcc -o client client.c
+
+test_shared_vars.c 這是在測試 mmap

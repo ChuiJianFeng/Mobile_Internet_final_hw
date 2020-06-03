@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/practice_circular_queue.dir/main.c.o CMakeFiles/practice_circular_queue.dir/circular_queue.c.o  -o practice_circular_queue 

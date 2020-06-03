@@ -1,0 +1,5 @@
+/home/jian/CLionProjects/practice_circular_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jian/CLionProjects/practice_circular_queue/cmake-build-debug/CMakeFiles/practice_circular_queue.dir
+/home/jian/CLionProjects/practice_circular_queue/cmake-build-debug/CMakeFiles/server.dir
+/home/jian/CLionProjects/practice_circular_queue/cmake-build-debug/CMakeFiles/test_shared_vars.dir
+/home/jian/CLionProjects/practice_circular_queue/cmake-build-debug/CMakeFiles/edit_cache.dir

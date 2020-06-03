@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/test_shared_vars.dir/test_shared_vars.c.o  -o test_shared_vars 

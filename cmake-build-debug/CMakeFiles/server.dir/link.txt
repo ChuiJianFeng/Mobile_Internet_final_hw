@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/circular_queue.c.o  -o server 

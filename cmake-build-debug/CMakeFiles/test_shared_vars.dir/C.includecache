@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jian/CLionProjects/practice_circular_queue/test_shared_vars.c
+sys/mman.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/wait.h
+-
+
